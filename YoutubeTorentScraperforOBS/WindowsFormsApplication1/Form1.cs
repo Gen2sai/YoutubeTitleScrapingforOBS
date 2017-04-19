@@ -17,7 +17,8 @@ namespace WindowsFormsApplication1
     public partial class Form1 : Form
     {
         loopingform form = new loopingform();
-
+        object obj1;
+        object obj2;
         public Form1()
         {
             InitializeComponent();
@@ -66,8 +67,9 @@ namespace WindowsFormsApplication1
             return null;
         }
 
-        public static string loopTab(string tabName)
+        public static string loopTab(string tabName, string pathName)
         {
+
             Process[] procsChrome = Process.GetProcessesByName("chrome");
 
             if (procsChrome.Length <= 0)
@@ -110,7 +112,7 @@ namespace WindowsFormsApplication1
                             }
                             tempList.Add(temp);
                             //Console.WriteLine(tabitem.Current.Name);
-                            writer.WriterText(@"c:/", @"youtubetitle.txt", tempList);
+                            writer.WriterText(pathName, @"\youtubetitle.txt", tempList);
                         }
                     }
                     else
@@ -130,7 +132,9 @@ namespace WindowsFormsApplication1
                 DisableForm();
                 form.StartPosition = FormStartPosition.Manual;
                 form.Location = new Point(this.Location.X + (this.Width - form.Width) / 2, this.Location.Y + (this.Height - form.Height) / 2);
-                backgroundWorker1.RunWorkerAsync((string)listBox1.SelectedValue);
+                obj2 = (string)listBox1.SelectedValue;
+                object[] param = new object[] { obj1, obj2 };
+                backgroundWorker1.RunWorkerAsync(param);
                 form.Show();
 
             }
@@ -162,7 +166,9 @@ namespace WindowsFormsApplication1
 
                 while (!backgroundWorker1.CancellationPending)
                 {
-                    loopTab((string)e.Argument);
+                    object[] param = e.Argument as object[];
+
+                    loopTab((string)param[1], (string)param[0]);
                 }
             }
         }
@@ -181,6 +187,15 @@ namespace WindowsFormsApplication1
         private void button3_Click(object sender, EventArgs e)
         {
             string title = GetActiveTabUrl(listBox1);
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            if (folderBrowserDialog1.ShowDialog() == DialogResult.OK)
+            {
+                textBox1.Text = folderBrowserDialog1.SelectedPath; // prints path
+            }
+            obj1 = textBox1.Text;
         }
     }
 }

@@ -23,3 +23,13 @@ C:\Users\Genryu\Source\Repos\YoutubeTitleScraper\WindowsFormsApplication1\obj\De
 C:\Users\Genryu\Source\Repos\YoutubeTorentScraperforOBS\YoutubeTorentScraperforOBS\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
 C:\Users\Genryu\Source\Repos\YoutubeTorentScraperforOBS\YoutubeTorentScraperforOBS\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 C:\Users\Genryu\Source\Repos\YoutubeTorentScraperforOBS\YoutubeTorentScraperforOBS\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Genryu\Source\Repos\YoutubeTitleScrapingforOBS\YoutubeTorentScraperforOBS\WindowsFormsApplication1\bin\Debug\img\loading.gif
+C:\Users\Genryu\Source\Repos\YoutubeTitleScrapingforOBS\YoutubeTorentScraperforOBS\WindowsFormsApplication1\bin\Debug\YoutubeTitleScraper.exe.config
+C:\Users\Genryu\Source\Repos\YoutubeTitleScrapingforOBS\YoutubeTorentScraperforOBS\WindowsFormsApplication1\bin\Debug\YoutubeTitleScraper.exe
+C:\Users\Genryu\Source\Repos\YoutubeTitleScrapingforOBS\YoutubeTorentScraperforOBS\WindowsFormsApplication1\bin\Debug\YoutubeTitleScraper.pdb
+C:\Users\Genryu\Source\Repos\YoutubeTitleScrapingforOBS\YoutubeTorentScraperforOBS\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Genryu\Source\Repos\YoutubeTitleScrapingforOBS\YoutubeTorentScraperforOBS\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.img.loopingform.resources
+C:\Users\Genryu\Source\Repos\YoutubeTitleScrapingforOBS\YoutubeTorentScraperforOBS\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Genryu\Source\Repos\YoutubeTitleScrapingforOBS\YoutubeTorentScraperforOBS\WindowsFormsApplication1\obj\Debug\YoutubeTitleScraper.csproj.GenerateResource.Cache
+C:\Users\Genryu\Source\Repos\YoutubeTitleScrapingforOBS\YoutubeTorentScraperforOBS\WindowsFormsApplication1\obj\Debug\YoutubeTitleScraper.exe
+C:\Users\Genryu\Source\Repos\YoutubeTitleScrapingforOBS\YoutubeTorentScraperforOBS\WindowsFormsApplication1\obj\Debug\YoutubeTitleScraper.pdb
