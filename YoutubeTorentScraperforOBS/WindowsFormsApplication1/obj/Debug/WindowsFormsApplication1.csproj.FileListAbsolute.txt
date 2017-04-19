@@ -1,0 +1,11 @@
+C:\Users\Genryu\Source\Repos\HentaiDuplicationChecker\YoutubeTitleScraper\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Genryu\Source\Repos\HentaiDuplicationChecker\YoutubeTitleScraper\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Genryu\Source\Repos\HentaiDuplicationChecker\YoutubeTitleScraper\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Genryu\Source\Repos\HentaiDuplicationChecker\YoutubeTitleScraper\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Genryu\Source\Repos\HentaiDuplicationChecker\YoutubeTitleScraper\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Genryu\Source\Repos\HentaiDuplicationChecker\YoutubeTitleScraper\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Genryu\Source\Repos\HentaiDuplicationChecker\YoutubeTitleScraper\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Genryu\Source\Repos\HentaiDuplicationChecker\YoutubeTitleScraper\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Genryu\Source\Repos\HentaiDuplicationChecker\YoutubeTitleScraper\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Genryu\Source\Repos\HentaiDuplicationChecker\YoutubeTitleScraper\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.img.loopingform.resources
+C:\Users\Genryu\Source\Repos\HentaiDuplicationChecker\YoutubeTitleScraper\WindowsFormsApplication1\bin\Debug\img\loading.gif
